@@ -1,5 +1,5 @@
 # Girls Who Code Games
-This repository contains a collection of small, fun games I created as an instructor for the Girls Who Code Summer Immersion Program.
+A collection of small games I created as an instructor for the Girls Who Code Summer Immersion Program.
 
 ### These games are designed to teach:
 - Game mechanics: movement, collision, scoring
