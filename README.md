@@ -6,7 +6,7 @@ A collection of small games I created as an instructor for the Girls Who Code Su
 - HTML/CSS structure for interactive content
 - JavaScript programming and logic for dynamic gameplay
 
-🎾 [Tennis Game – Hit tennis balls and enjoy the relaxing sounds.](https://hellosamm.github.io/GirlsWhoCode/)
+🎾 [Tennis Game – Hit tennis balls and enjoy the relaxing sounds.](https://hellosamm.github.io/GirlsWhoCode/tennis-catcher-game/)
 
 
 
