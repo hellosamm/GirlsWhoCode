@@ -11,5 +11,6 @@ A collection of small games I created as an instructor for the **Girls Who Code 
 
 ### My Projects
 🎾 [Tennis Game – Hit tennis balls and enjoy the relaxing sounds.](https://hellosamm.github.io/GirlsWhoCode/tennis-catcher-game/)
+👋 [Interactive Avatar](https://hellosamm.github.io/GirlsWhoCode/interactive-avatar/)
 
 ### Student Work
