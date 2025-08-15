@@ -5,8 +5,9 @@ This tennis game was created as part of the Girls Who Code Summer Immersion Prog
 
 **How to play:** Use the arrow keys to see how many tennis balls you can hit.. my high score is 33
 
-[!IMPORTANT]
-Please make sure your audio isn’t too loud
+>[!IMPORTANT]
+>Please make sure your audio isn’t too loud
 
 [Play the game here](https://hellosamm.github.io/GirlsWhoCode/)
+
 
