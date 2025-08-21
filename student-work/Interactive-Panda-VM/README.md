@@ -1,5 +1,6 @@
-# Interactive Avatar Starter Code
-This is a place for you to start building your Interactive Avatar Project!
+# Interactive Avatar
+play the game [here](https://hellosamm.github.io/GirlsWhoCode/student-work/Interactive-Panda-VM/)
+
 
 ### Project Requirements
 Your project should:
