@@ -14,5 +14,5 @@ A collection of small games I created as an instructor for the **Girls Who Code 
 👋 [Interactive Avatar](https://hellosamm.github.io/GirlsWhoCode/interactive-avatar/)
 
 ### Student Work
-🐼 [Interactive Panda](https://hellosamm.github.io/GirlsWhoCode/student-work/Interactive-Panda-VM/)
+🐼 [Interactive Panda](https://hellosamm.github.io/GirlsWhoCode/student-work/Interactive-Panda-VM/)\
 🐵 [Interactive Monkey](https://hellosamm.github.io/GirlsWhoCode/student-work/Interactive-Monkey-FL/)
